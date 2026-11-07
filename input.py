@@ -7,3 +7,4 @@ while nama!="python":
 if nama!="python":
     pass
 print("good bye python")
+print("haloo")
